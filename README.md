@@ -62,7 +62,7 @@ root/
    ```
 
 4. The app runs at:  
-   [http://localhost:3000](http://localhost:3000)
+   [http://localhost:5173](http://localhost:5173)
 
 ---
 
@@ -167,4 +167,4 @@ Use Postman or Swagger to test this endpoint.
 ## 📫 Author
 
 **Om Sharma**  
-Feel free to reach out on [LinkedIn](https://linkedin.com) or GitHub for any questions.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/om-sharma108/) or GitHub for any questions.
